@@ -24,7 +24,7 @@ Ideal Outcome:
 - Ideally, my game will be fully playable with no lag. Players will be able to either reach 2048, leading them to a win screen, or will run out of space and recieve the lose screen! The look of the game will also be different from traditional 2048, allowing it to stand out!
 
 Minimal Viable Outcome:
-- Players will be able to move tiles and combine them, hopefully until reaching a win or lose screen.
+- Players will be able to move tiles and combine them, hopefully until reaching a win or lose screen. This game will open in a new window.
 
 ## Milestones
 
