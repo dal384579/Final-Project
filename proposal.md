@@ -4,7 +4,7 @@
 <https://github.com/dal384579/Final-Project>
 
 ## Description
-I will remake the 2048 game and will allow users to open it in a new window and play until they lose. This is relevent to media arts as it is a famous computer game that will help me grow my programming skills!
+I will remake the 2048 game and will allow users to open it in a new window and play until they win or lose. This is relevent to media arts as it is a famous computer game that will help me grow my programming skills!
 
 ## Features
 - New window
