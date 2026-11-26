@@ -35,6 +35,10 @@ class Board:
     Font = (255, 253, 208) #cream
     Font_Color = pygame.font.SysFont('Cooper Black', 40)
 
+    def draw_tile(screen):
+
+    def draw_board(screen):
+
 
 
 def main:
