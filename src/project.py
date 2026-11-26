@@ -36,9 +36,15 @@ class Board:
     Font_Color = pygame.font.SysFont('Cooper Black', 40)
 
     def draw_tile(screen):
-
+        #set color to equal Tile_Colors
+        #set tile shape to be a square using deminsions
+        #draw tile specific to its number!!
     def draw_board(screen):
-
+        #screen.fill(Bg_color)
+        #make grid
+            #for statement to define row
+            #for statement to define col
+            #grid with margins between tiles!!
 
 
 def main:
