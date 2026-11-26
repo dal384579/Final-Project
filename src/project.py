@@ -3,6 +3,9 @@ import pygame
 
 pygame.init()
 
+#dimensions, colors, and grid
+
+
 def main:
 
 
