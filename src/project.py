@@ -12,7 +12,7 @@ Screen_Height = Screen
 Screen_Width = Screen
 
 #color for tiles and bg
-Bg_Color = 
+Bg_Color = (255, 253, 208)
 Blank_Space_Tile = 
 Tile_Colors = {
     2:
