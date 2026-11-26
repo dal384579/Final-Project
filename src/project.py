@@ -4,10 +4,10 @@ import pygame
 pygame.init()
 
 #dimensions
-Size =
-Gap_Size = 
-Tile_Size = 
-Screen = 
+Size = 4
+Gap_Size = 100
+Tile_Size = 10
+Screen = 20
 Screen_Height = Screen
 Screen_Width = Screen
 
@@ -29,6 +29,8 @@ Tile_Colors = {
 }
 
 #font of game
+Font = 
+Font_Color =
 
 
 
