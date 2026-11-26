@@ -7,7 +7,7 @@ pygame.init()
 Size = 4
 Gap_Size = 100
 Tile_Size = 10
-Screen = 20
+Screen = Size * Tile_Size + (Size +1) * Gap_Size + 2
 Screen_Height = Screen
 Screen_Width = Screen
 
