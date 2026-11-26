@@ -31,7 +31,7 @@ Tile_Colors = {
 
 #font of game
 Font = (255, 253, 208) #cream
-Font_Color =
+Font_Color = pygame.font.SysFont('', 40)
 
 
 
