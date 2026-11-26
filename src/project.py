@@ -30,7 +30,7 @@ Tile_Colors = {
     
 
 #font of game
-Font = 
+Font = (255, 253, 208) #cream
 Font_Color =
 
 
